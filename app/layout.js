@@ -58,7 +58,7 @@ export default function RootLayout({ children }) {
           ${orbitron.variable}
           ${electrolize.variable}
           antialiased
-          bg-black
+          bg-slate-950
         `}
       >
         {children}

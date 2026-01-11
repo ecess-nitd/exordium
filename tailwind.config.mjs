@@ -8,6 +8,10 @@ export default {
   ],
   theme: {
   	extend: {
+		fontFamily: {
+			orbitron: ["var(--font-orbitron)"],
+			electrolize: ["var(--font-electrolize)"],
+		  },		  
   		colors: {
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
